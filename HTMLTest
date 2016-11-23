@@ -6,15 +6,16 @@ html
 
 <div>
 
-<h3>項目</h3>
 
 <ul>
-  <li><a href = "">blender</a></li>
-  <li><a href = "">UnrealEngine4</a></li>
-  <li><a href = "">programming</a></li>
+  <li>blender</li>
+  <li>UnrealEngine4</li>
+  <li>programming</li>
   
 
 </ul>
+
+
 </div>
 
 
