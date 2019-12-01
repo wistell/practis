@@ -11,6 +11,16 @@
     max-width: 200px; 
 }
 
+.main-nav li div {
+   margin: 5px;
+    border-radius: 5px;
+    background: #60B99A;
+    color: #fff;
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+}
+
 /* .main-nav li:first-child{
     margin-right: auto;
 } */
